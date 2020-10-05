@@ -1,0 +1,173 @@
+body{
+    
+    margin: 0 auto;
+}
+
+.site-header{
+    background-color: #2f3135;
+    margin-top: 0 auto;
+    height: 800px;
+}
+
+.site-logo{
+    padding-top: 80px;
+    width: 450px;
+    font-size: 35px;
+    margin-left: 20%;
+    color: #fff;
+}
+
+.site-nav {
+    color:orange;
+    position: absolute;
+    right: 15%;
+    top: 7%;
+    width:560px;
+    display: flex;
+    font-size: 25px;
+}
+
+.site-nav li{
+    display: inline;
+    justify-content: space-around;
+    width: 200px; 
+}
+
+.site-promo h1{
+    color: #fff;
+    margin-left: 25%;
+    margin-top: 5%;
+    font-size: 70px;
+    width: 50%;
+    text-align: center;
+}
+
+.description {
+    color: #fff;
+    width: 60%;
+    font-size: 31px;
+    margin-left: 20%;
+    text-align: center;
+}
+
+.container-two h2{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 40px;
+}
+
+.grid{
+    width: 70%;
+    margin-left: 15%;
+}
+
+.grid-cell-one{
+width: 40%;
+margin-left: 5%;
+font-size: 25px;
+}
+
+.grid-cell-two{
+    width: 540px;
+    margin-left: 4%;
+    position: absolute;
+    right: 350px;
+    top: 930px;
+    font-size: 25px;
+}
+
+.grid-cell-three{
+    width: 540px;
+    font-size: 25px;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+.grid-cell-four{
+    width: 540px;
+    font-size: 25px;
+    margin-left: 38%;
+    top: 1240px;
+    position: absolute;
+}
+
+span{
+    color: orange;
+}
+
+.site-section-video{
+    background-color: #2f3135;
+    height: 600px;
+}
+
+.site-section-video h2{
+    margin-top: 50px;
+    padding-top: 100px;
+    text-align: center;
+    font-size: 40px;  
+    color: #fff;
+    
+}
+
+.content{
+    width: 70%;
+    margin-left: 15%;
+    color: #fff;
+    font-size: 25px;
+    padding-top: 50px;
+}
+
+.site-section-two h2{
+    margin-top: 50px;
+    padding-top: 50px;
+    text-align: center;
+    font-size: 40px;  
+    
+}
+
+.in-the-wild{
+    width: 50%;
+    margin-left: 25%;
+    font-size: 25px;
+    text-align: center;
+}
+
+.cta-option-two{
+    background-color: orange;
+    width: 150px;
+    margin-left: 45%;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 30px;
+    color: #fff;
+    font: 20px;
+    box-shadow: 2px 2px 1px black;
+}
+
+.inline-block-list{
+    text-align: center;
+}
+
+.inline-block-list p{
+display: inline-block;
+width: 300px;
+list-style: none;
+}
+
+.inline-block-list li{
+    list-style: none;
+}
+
+
+footer{
+    background-color: #2f3135;
+    color: #fff;
+    text-align: center;
+    height: 300px;
+}
+
+footer p{
+    padding-top: 100px;
+    display: inline-block;
+    margin-left:40px;
+}
